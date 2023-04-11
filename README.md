@@ -25,6 +25,8 @@ I am currently studying Computer Science at Silesian University of Technology an
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="45" height="36" alt="Docker" /></a>
+<a href="https://www.spring.com/" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-png-transparent.png" width="36" height="36" alt="Docker" /></a>
 </p>
 
 ### Socials
